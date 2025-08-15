@@ -7,7 +7,7 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
+- Gabriel Alencar do Lago – RA: 1376002  
 - Nome 2 – RA: XXXXXXXX  
 - Nome 3 – RA: XXXXXXXX  
 
