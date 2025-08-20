@@ -26,7 +26,7 @@ com comprometimentos cognitivos e/ou motores diversos.
   Jogadores com diferentes tipos de comprometimentos cognitivos e/ou motores de todas as idades, além de crianças e jovens em fase desenvolvimento que necessitam de recursos para estimular habilidades mentais e motoras.
   
 - **Impacto esperado:**
-  - Estímulo da memória e do desenvolvimento motor.
+- Estímulo da memória e do desenvolvimento motor.
 - Evolução da velocidade de resposta a estímulos.
 - Inclusão de pessoas com limitações em atividades lúdicas e cognitivas.
 - Melhora na qualidade de vida e bem-estar por meio do jogo adaptado.
@@ -36,9 +36,16 @@ com comprometimentos cognitivos e/ou motores diversos.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+- Missão:  Promover inclusão, desenvolvimento cognitivo e motor por meio de um jogo acessível e interativo, que incentive o aprendizado, a diversão e a reabilitação de pessoas com comprometimentos e de crianças e jovens em processo de desenvolvimento.
+  
+- Visão:  Ser referência em soluções tecnológicas adaptadas que unem acessibilidade, inovação e ludicidade, ampliando as possibilidades de interação e aprendizado para diferentes públicos, contribuindo para uma sociedade mais inclusiva e igualitária.
+  
+- Valores:
+•Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
+• Inovação: aplicar tecnologia de forma criativa e acessível.
+Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
+• Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
+• Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
