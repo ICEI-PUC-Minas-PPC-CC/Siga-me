@@ -35,9 +35,8 @@ com comprometimentos cognitivos e/ou motores diversos.
  Desenvolvimento de uma mesa adaptada inspirada no jogo Genius, composta por quatro botões e quatro LEDs coloridos, controlados por uma placa Arduino. O design estimula tanto os movimentos dos braços (com botões) quanto os movimentos da cabeça (com LEDs), oferecendo dois modos de operação para atender às diferentes necessidades dos jogadores.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link)  
+- Lean Canvas (imagem ou link): https://www.canva.com/design/DAGwpmcb7sc/T4upGoWQnL7PsNPbq9HgUg/edit?utm_content=DAGwpmcb7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 - Missão:  Promover inclusão, desenvolvimento cognitivo e motor por meio de um jogo acessível e interativo, que incentive o aprendizado, a diversão e a reabilitação de pessoas com comprometimentos e de crianças e jovens em processo de desenvolvimento.
-  
 - Visão:  Ser referência em soluções tecnológicas adaptadas que unem acessibilidade, inovação e ludicidade, ampliando as possibilidades de interação e aprendizado para diferentes públicos, contribuindo para uma sociedade mais inclusiva e igualitária.
   
 - Valores:
