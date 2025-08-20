@@ -1,17 +1,17 @@
 # 📌 Siga-me
 
-Inspirado no clássico jogo Genius, este projeto está sendo desenvolvido
+Inspirado no clássico jogo Genius, este projeto consiste em uma mesa interariva que foi desenvolvida
 para estimular a memória, o desenvolvimento motor e a
 evolução da velocidade de resposta a estímulos de jogadores
-com comprometimentos cognitivos e/ou motores diversos.
+com comprometimentos cognitivos e/ou motores diversos. 
 
 ---
 
 ## 👥 Integrantes
 
-- Gabriel Alencar do Lago – RA: 1376002  
 - Brenda Caroline Tristão – RA: 808164  
-- Nome 3 – RA: XXXXXXXX  
+- Daniely Fernanda Poscidônio – RA: 814647
+- Gabriel Alencar do Lago – RA: 1376002  
 
 ---
 
