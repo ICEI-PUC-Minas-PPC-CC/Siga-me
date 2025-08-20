@@ -1,14 +1,16 @@
 # 📌 Nome do Projeto
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+Inspirado no clássico jogo Genius, este projeto está sendo desenvolvido
+para estimular a memória, o desenvolvimento motor e a
+evolução da velocidade de resposta a estímulos de jogadores
+com comprometimentos cognitivos e/ou motores diversos.
 
 ---
 
 ## 👥 Integrantes
 
 - Gabriel Alencar do Lago – RA: 1376002  
-- Nome 2 – RA: XXXXXXXX  
+- Brenda Caroline Tristãk – RA: 808164  
 - Nome 3 – RA: XXXXXXXX  
 
 ---
