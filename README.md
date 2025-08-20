@@ -30,7 +30,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 - Evolução da velocidade de resposta a estímulos.
 - Inclusão de pessoas com limitações em atividades lúdicas e cognitivas.
 - Melhora na qualidade de vida e bem-estar por meio do jogo adaptado.
-- 
+
 - **Solução proposta:**
  Desenvolvimento de uma mesa adaptada inspirada no jogo Genius, composta por quatro botões e quatro LEDs coloridos, controlados por uma placa Arduino. O design estimula tanto os movimentos dos braços (com botões) quanto os movimentos da cabeça (com LEDs), oferecendo dois modos de operação para atender às diferentes necessidades dos jogadores.
 
@@ -40,11 +40,12 @@ com comprometimentos cognitivos e/ou motores diversos.
 - Visão:  Ser referência em soluções tecnológicas adaptadas que unem acessibilidade, inovação e ludicidade, ampliando as possibilidades de interação e aprendizado para diferentes públicos, contribuindo para uma sociedade mais inclusiva e igualitária.
   
 - Valores:
-•Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
-• Inovação: aplicar tecnologia de forma criativa e acessível.
+  
+1-Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
+2-Inovação: aplicar tecnologia de forma criativa e acessível.
 Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
-• Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
-• Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
+3-Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
+4-Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
