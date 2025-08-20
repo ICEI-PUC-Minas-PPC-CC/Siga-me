@@ -41,11 +41,11 @@ com comprometimentos cognitivos e/ou motores diversos.
   
 - Valores:
   
-1-Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
-2-Inovação: aplicar tecnologia de forma criativa e acessível.
-Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
-3-Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
-4-Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
+-1 Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
+-2 Inovação: aplicar tecnologia de forma criativa e acessível.
+-3 Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
+-4 Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
+-5 Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - Custos fixos:  
