@@ -1,6 +1,6 @@
 # 📌 Siga-me
 
-Inspirado no clássico jogo Genius, este projeto consiste em uma mesa interariva que foi desenvolvida
+Inspirado no clássico jogo Genius, este projeto consiste em uma mesa interativa que foi desenvolvida
 para estimular a memória, o desenvolvimento motor e a
 evolução da velocidade de resposta a estímulos de jogadores
 com comprometimentos cognitivos e/ou motores diversos. 
