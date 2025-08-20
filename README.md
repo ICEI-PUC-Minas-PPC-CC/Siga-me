@@ -18,10 +18,21 @@ com comprometimentos cognitivos e/ou motores diversos.
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+
+- **Problema identificado:**
+ A ausência de recursos lúdicos e acessíveis que estimulem, de forma integrada, a memória, a coordenação motora e a velocidade de resposta, tanto para pessoas com comprometimentos cognitivos e/ou motores, que necessitam de alternativas adaptadas, quanto para crianças e jovens em fase de desenvolvimento, que se beneficiam de atividades que fortalecem habilidades cognitivas e motoras de maneira divertida e interativa.
+
+- **Público-alvo:**
+  Jogadores com diferentes tipos de comprometimentos cognitivos e/ou motores de todas as idades, além de crianças e jovens em fase desenvolvimento que necessitam de recursos para estimular habilidades mentais e motoras.
+  
+- **Impacto esperado:**
+  - Estímulo da memória e do desenvolvimento motor.
+- Evolução da velocidade de resposta a estímulos.
+- Inclusão de pessoas com limitações em atividades lúdicas e cognitivas.
+- Melhora na qualidade de vida e bem-estar por meio do jogo adaptado.
+- 
+- **Solução proposta:**
+ Desenvolvimento de uma mesa adaptada inspirada no jogo Genius, composta por quatro botões e quatro LEDs coloridos, controlados por uma placa Arduino. O design estimula tanto os movimentos dos braços (com botões) quanto os movimentos da cabeça (com LEDs), oferecendo dois modos de operação para atender às diferentes necessidades dos jogadores.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
