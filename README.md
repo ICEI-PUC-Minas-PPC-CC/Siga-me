@@ -11,7 +11,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 
 - Brenda Caroline Tristão – RA: 808164  
 - Daniely Fernanda Poscidônio – RA: 814647
-- Gabriel Alencar do Lago – RA: 1376002  
+- Gabriel Alencar do Lago – RA: 762952 
 
 ---
 
