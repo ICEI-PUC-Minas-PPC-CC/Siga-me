@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto
+# 📌 Siga-me
 
 Inspirado no clássico jogo Genius, este projeto está sendo desenvolvido
 para estimular a memória, o desenvolvimento motor e a
@@ -10,7 +10,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 ## 👥 Integrantes
 
 - Gabriel Alencar do Lago – RA: 1376002  
-- Brenda Caroline Tristãk – RA: 808164  
+- Brenda Caroline Tristão – RA: 808164  
 - Nome 3 – RA: XXXXXXXX  
 
 ---
