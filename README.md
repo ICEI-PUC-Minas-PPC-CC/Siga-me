@@ -35,22 +35,22 @@ com comprometimentos cognitivos e/ou motores diversos.
  Desenvolvimento de uma mesa adaptada inspirada no jogo Genius, composta por quatro botões e quatro LEDs coloridos, controlados por uma placa Arduino. O design estimula tanto os movimentos dos braços (com botões) quanto os movimentos da cabeça (com LEDs), oferecendo dois modos de operação para atender às diferentes necessidades dos jogadores.
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
-- Lean Canvas (imagem ou link): https://www.canva.com/design/DAGwpmcb7sc/T4upGoWQnL7PsNPbq9HgUg/edit?utm_content=DAGwpmcb7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+- [Lean Canvas] (https://www.canva.com/design/DAGwpmcb7sc/T4upGoWQnL7PsNPbq9HgUg/edit?utm_content=DAGwpmcb7sc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - Missão:  Promover inclusão, desenvolvimento cognitivo e motor por meio de um jogo acessível e interativo, que incentive o aprendizado, a diversão e a reabilitação de pessoas com comprometimentos e de crianças e jovens em processo de desenvolvimento.
 - Visão:  Ser referência em soluções tecnológicas adaptadas que unem acessibilidade, inovação e ludicidade, ampliando as possibilidades de interação e aprendizado para diferentes públicos, contribuindo para uma sociedade mais inclusiva e igualitária.
   
 - Valores:
   
-- 1 Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
-- 2 Inovação: aplicar tecnologia de forma criativa e acessível.
-- 3 Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
-- 4 Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
-- 5 Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
+* Inclusão: garantir que pessoas com diferentes necessidades possam participar ativamente de atividades lúdicas.
+* Inovação: aplicar tecnologia de forma criativa e acessível.
+* Educação e desenvolvimento: estimular o aprendizado e o crescimento pessoal de forma divertida e eficaz.
+* Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
+* Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 - [Ir para tabela de custos e despesas](docs/custos_estudo.md) 
 
-- PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5 
+- [PNBOX] (https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5) 
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial:  
