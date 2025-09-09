@@ -48,9 +48,9 @@ com comprometimentos cognitivos e/ou motores diversos.
 - 5 Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
-- Tributos aplicáveis:  
+- [Ir para tabela de custos e despesas](docs/custos_estudo.md) 
+
+- PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5 
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial:  
