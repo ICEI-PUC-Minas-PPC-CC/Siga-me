@@ -1,4 +1,4 @@
-#Tabela de Custos e Despesas
+# Tabela de Custos e Despesas
 
 | Item                        | Tipo      | Natureza  | Classificação |
 |-----------------------------|-----------|-----------|---------------|
