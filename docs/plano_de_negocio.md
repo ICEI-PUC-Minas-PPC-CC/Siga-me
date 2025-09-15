@@ -35,7 +35,7 @@
 
 ## Concorrência
 - **Jogo Genius Original:** aproximadamente R$ 300, porém sem recursos adaptados para inclusão. [https://www.estrela.com.br/jogo-genius-estrela/p?srsltid=AfmBOooA6o4Iuz3WfushvJGaiv7foGz1wJf04dabGGGMIi53i2aGKkfj]
-- **Produtos terapêuticos e mesas interativas importadas:** podem variar de R$ 4.000 a R$ 15.000, com foco em clínicas especializadas.  
+- **Produtos terapêuticos e mesas interativas importadas:** podem variar de R$ 4.000 a R$ 15.000, com foco em clínicas especializadas (Neurolevel Sensory Table, RemindMeCare Touch Tables, Touch2Play).
 - **Diferencial Siga-me:** preço mais acessível que soluções internacionais, adaptado à realidade brasileira, design inclusivo, acessibilidade física e cognitiva, suporte em português.  
 
 ## Modelo de Precificação
