@@ -15,8 +15,10 @@
 | Software para Gestão        | 500,00         |
 
 # Capital de Giro
-
-
+- Aproximadamente R$150.000
+- Prazo médio de estoque: 30 dias.
+- Prazo médio de recebimento: 90, 150 e 300 dias.
+- Prazo médio de pagamento: 60 dias.
 
 # Estratégia de Precificação - Mesa Interativa "Siga-me"
 
