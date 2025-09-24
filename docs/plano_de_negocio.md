@@ -20,7 +20,7 @@
 - Prazo médio de recebimento: 90, 150 e 300 dias.
 - Prazo médio de pagamento: 60 dias.
 
-# Estratégia de Precificação - Mesa Interativa "Siga-me"
+# Estratégia de Precificação
 
 ## Valor Entregue
 - **Benefícios ao cliente**:  
