@@ -47,16 +47,16 @@ com comprometimentos cognitivos e/ou motores diversos.
 * Respeito à diversidade: valorizar as diferenças individuais e promover igualdade de oportunidades.
 * Colaboração: incentivar o trabalho conjunto entre áreas de conhecimento para criar soluções que impactem positivamente a sociedade.
 
-### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+### 3️⃣ Custos e Despesas (Plano de Negócios - PNBOX)
 - [Ir para tabela de custos e despesas](docs/custos_estudo.md) 
 
 - [PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5) 
 
-### 4️⃣ Investimentos, Precificação e Tributos
+### 4️⃣ Investimentos, Precificação e Tributos (Plano de Negócios - PNBOX)
 - [Ir para o Plano de Negócio, contendo os investimentos, precificação e tributos.](docs/plano_de_negocio.md)
 
 - [PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5)
-- 
+  
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
 - Fraquezas:  
