@@ -55,4 +55,35 @@
 ## Métricas
 - **CAC (Custo de Aquisição de Cliente):** estimado em R$ 400,00 (eventos, feiras de educação e saúde, marketing digital segmentado).  
 - **ARPU (Receita Média por Cliente):** ~R$ 2.200,00 considerando venda da mesa + parte dos serviços complementares.  
-- **LTV (Lifetime Value):** ~R$ 3.400,00 (considerando recompra de versões atualizadas + serviços ao longo de 3 anos).  
+- **LTV (Lifetime Value):** ~R$ 3.400,00 (considerando recompra de versões atualizadas + serviços ao longo de 3 anos).
+
+# Enquadramento Jurídico e Tributário
+
+## Natureza Jurídica
+- **Sociedade Limitada (LTDA)**  
+  - Forma societária escolhida, pois permite a atuação em grupo (mais de um sócio) com responsabilidade limitada ao capital social.  
+  - Protege o patrimônio pessoal dos sócios em caso de dívidas da empresa.  
+  - Possibilita maior credibilidade perante fornecedores, investidores e clientes institucionais (clínicas, escolas, hospitais).  
+
+## Regime Tributário
+- **Simples Nacional** (faixa inicial até R$ 4,8 milhões/ano)  
+  - Justificativa: regime simplificado que unifica tributos federais, estaduais e municipais em guia única (DAS).  
+  - Menor carga tributária no início, com alíquotas progressivas a partir de 6%.  
+  - Reduz burocracia e custos contábeis, ideal para startups e empresas em fase inicial.  
+
+## Tributação Incidente
+Dependendo da operação (fabricação e venda de bens físicos + serviços complementares de manutenção/atualização):
+
+- **IRPJ (Imposto de Renda Pessoa Jurídica)**  
+- **CSLL (Contribuição Social sobre Lucro Líquido)**  
+- **PIS e COFINS** (tributos sobre faturamento, já incluídos no Simples Nacional)  
+- **ICMS** (Imposto sobre Circulação de Mercadorias e Serviços – aplicável à venda do produto físico)  
+- **ISS** (Imposto sobre Serviços – aplicável à prestação de manutenção, suporte ou customização de software)  
+- **INSS Patronal** (contribuições previdenciárias sobre a folha de pagamento, com redução no Simples)  
+
+## Obrigações Acessórias
+- **Emissão de Notas Fiscais Eletrônicas (NF-e e NFS-e)** para vendas de produtos e serviços.  
+- **Declaração Anual do Simples Nacional (DASN-SIMEI ou PGDAS-D)**.  
+- **Registro contábil simplificado** (livros caixa, relatórios de receitas/despesas).  
+- **Declarações trabalhistas** (eSocial, GFIP, RAIS, quando houver empregados).  
+- **Obrigações estaduais/municipais**: cadastro na SEFAZ (para ICMS) e prefeitura (para ISS).
