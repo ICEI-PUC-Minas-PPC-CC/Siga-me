@@ -52,9 +52,11 @@ com comprometimentos cognitivos e/ou motores diversos.
 
 - [PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5) 
 
-### 4️⃣ Investimentos e Precificação
-[Ir para investimentos e precificação](docs/plano_de_negocio.md)
+### 4️⃣ Investimentos, Precificação e Tributos
+- [Ir para o Plano de Negócio, contendo os investimentos, precificação e tributos.](docs/plano_de_negocio.md)
 
+- [PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5)
+- 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
 - Fraquezas:  
