@@ -58,10 +58,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 - [PNBOX](https://pnbox.sebrae.com.br/planoNegocio/invite/NSLHvj4n5)
   
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- [Matriz SWOT] (docs/MatrizSWOT.jpeg)
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:  
