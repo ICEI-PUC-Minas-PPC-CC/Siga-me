@@ -144,4 +144,5 @@ Sigame Industria LTDA
 - **Diferencial Siga-me:** preço mais acessível que soluções internacionais, adaptado à realidade brasileira, design inclusivo, acessibilidade física e cognitiva, suporte em português.
 
 ## Matriz SWOT
-- Forças (Strengths), Fraquezas (Weakness), Oportunidades (Opportunities) e Ameaças (Threats): 
+- ![Matriz SWOT](MatrizSWOT.jpeg)
+
