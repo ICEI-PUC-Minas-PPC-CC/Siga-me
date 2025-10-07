@@ -144,4 +144,4 @@ Sigame Industria LTDA
 - **Diferencial Siga-me:** preço mais acessível que soluções internacionais, adaptado à realidade brasileira, design inclusivo, acessibilidade física e cognitiva, suporte em português.
 
 ## Matriz SWOT
-- ![Matriz SWOT](MatrizSWOT.jpeg)
+![Matriz SWOT](MatrizSWOT.jpeg)
