@@ -145,4 +145,3 @@ Sigame Industria LTDA
 
 ## Matriz SWOT
 - ![Matriz SWOT](MatrizSWOT.jpeg)
-
