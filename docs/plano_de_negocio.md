@@ -35,11 +35,6 @@
 - Mesa mais simples para uso doméstico: entre **R$ 500,00 e R$ 800,00**
 - Mesa mais elaborada, com todas as funcionalidades, incluindo modo manual e relatórios: **R$ 800,00 e R$ 2000,00**
 
-## Concorrência
-- **Jogo Genius Original:** aproximadamente R$ 300, porém sem recursos adaptados para inclusão. [https://www.estrela.com.br/jogo-genius-estrela/p?srsltid=AfmBOooA6o4Iuz3WfushvJGaiv7foGz1wJf04dabGGGMIi53i2aGKkfj]
-- **Produtos terapêuticos e mesas interativas importadas:** podem variar de R$ 4.000 a R$ 15.000, com foco em clínicas especializadas (Neurolevel Sensory Table, RemindMeCare Touch Tables, Touch2Play).
-- **Diferencial Siga-me:** preço mais acessível que soluções internacionais, adaptado à realidade brasileira, design inclusivo, acessibilidade física e cognitiva, suporte em português.  
-
 ## Modelo de Precificação
 - **Venda única de produto físico:**  
   - **Versão Simples (R$ 700,00)**: voltada para o uso doméstico.
@@ -140,3 +135,13 @@ Sigame Industria LTDA
 - Balanço Patrimonial e DRE anuais
 - Controle de estoque (entrada/saída de materiais)
 - Arquivo digital dos documentos fiscais por 5 anos​​​​​​​​​​​​​​​​
+
+# Análise de Ambientes
+
+## Concorrência
+- **Jogo Genius Original:** aproximadamente R$ 300, porém sem recursos adaptados para inclusão. [https://www.estrela.com.br/jogo-genius-estrela/p?srsltid=AfmBOooA6o4Iuz3WfushvJGaiv7foGz1wJf04dabGGGMIi53i2aGKkfj]
+- **Produtos terapêuticos e mesas interativas importadas:** podem variar de R$ 4.000 a R$ 15.000, com foco em clínicas especializadas (Neurolevel Sensory Table, RemindMeCare Touch Tables, Touch2Play).
+- **Diferencial Siga-me:** preço mais acessível que soluções internacionais, adaptado à realidade brasileira, design inclusivo, acessibilidade física e cognitiva, suporte em português.
+
+## Matriz SWOT
+- Forças (Strengths), Fraquezas (Weakness), Oportunidades (Opportunities) e Ameaças (Threats): 
