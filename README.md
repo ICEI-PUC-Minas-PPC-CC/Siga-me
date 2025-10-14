@@ -64,9 +64,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:  
-- Indicadores e metas:  
-- Ações planejadas:  
+- [Ir para o planejamento estratégico](docs/planejamento_estrategico.md)
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
