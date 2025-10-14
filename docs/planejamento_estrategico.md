@@ -17,7 +17,6 @@
   - Adotar produção sob demanda para evitar estoques excessivos
   - Implementar controle de gastos e análise de custos fixos e variáveis
 
----
 
 ## 🤝 Perspectiva do Cliente
 ### Objetivo 1: Aumentar a satisfação e o engajamento dos usuários
@@ -36,7 +35,6 @@
   - Desenvolver campanhas voltadas à inclusão e acessibilidade
   - Participar de editais e programas de inovação social
 
----
 
 ## ⚙️ Perspectiva dos Processos Internos
 ### Objetivo 1: Melhorar a eficiência do processo produtivo
@@ -55,7 +53,6 @@
   - Criar checklists de inspeção e validação
   - Buscar certificações técnicas (INMETRO, acessibilidade)
 
----
 
 ## 💡 Perspectiva do Aprendizado e Crescimento
 ### Objetivo 1: Desenvolver competências técnicas e criativas da equipe
