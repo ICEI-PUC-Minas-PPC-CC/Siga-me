@@ -64,7 +64,7 @@ com comprometimentos cognitivos e/ou motores diversos.
 
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- [Ir para o planejamento estratégico](docs/planejamento_estrategico.md)
+- [Ir para o planejamento estratégico](./docs/planejamento_estrategico.xlsx)
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
