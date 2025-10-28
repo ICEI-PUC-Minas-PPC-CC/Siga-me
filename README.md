@@ -67,8 +67,8 @@ com comprometimentos cognitivos e/ou motores diversos.
 - [Ir para o planejamento estratégico](./docs/planejamento_estrategico.xlsx)
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+- [Ir para a planilha](./docs/fluxo_de_caixa.xlsx)
+- Principais considerações: [Plano de Negócio](docs/plano_de_negocio.md) 
 
 ### 8️⃣ Valuation
 - Método utilizado:  
