@@ -145,3 +145,37 @@ Sigame Industria LTDA
 
 ## Matriz SWOT
 ![Matriz SWOT](MatrizSWOT.jpeg)
+
+## Análise Detalhada do Fluxo de Caixa (Projeção 24 Meses)
+
+**Sigame Industria LTDA**
+
+### 1. Desempenho Operacional e Crescimento (Métricas)
+
+A projeção demonstra uma estratégia de crescimento sustentado, com um Preço Médio de Venda (ASP) assumido de R$ 1.100,00 e um CMV (Custo da Mercadoria Vendida) fixo em 30% do faturamento.
+O crescimento das vendas de 5% a.m. (no primeiro ano) e 3% a.m. (no segundo ano) indica que a empresa alcança um volume de **42 unidades vendidas** e **R$ 46.200,00 em faturamento mensal** ao final do período de 2 anos.
+
+### 2. Gestão de Caixa e Ponto de Equilíbrio
+
+O principal desafio da Sigame Industria LTDA reside na gestão do ciclo financeiro, dominado pelo longo **Prazo Médio de Recebimento (PMR)** (90/150/300 dias), em contraste com o prazo de pagamento do CMV de 60 dias.
+
+#### Queima de Caixa e Saldo Acumulado
+
+* **Saldo Inicial:** O Capital Social robusto de **R$ 300.000,00** é essencial, pois financia a operação durante a fase de maturação do ciclo financeiro.
+
+* **Queima de Caixa:** Nos primeiros 10 meses de operação (Mês 1 a Mês 10), a empresa apresenta **Saldo do Mês (A - B) consistentemente negativo**. Isso ocorre porque as despesas e custos fixos são pagos à vista ou em curto prazo (Mês 1: **-R$ 27.760,20**), enquanto as receitas levam 3 a 10 meses para entrar (PMR).
+
+* **Ponto de Equilíbrio Operacional de Caixa (Cash Flow Break-Even):** O saldo do mês se torna positivo pela primeira vez no **Mês 11 (Novembro/2026)** com um superávit de **R$ 542,93**. Este é o mês em que as entradas de vendas acumuladas finalmente superam as saídas operacionais mensais.
+
+* **Mínimo Histórico:** O Saldo Acumulado atinge seu ponto mais baixo no **Mês 10 (Outubro/2026)**, registrando **R$ 184.844,22**. Isso representa uma utilização de **R$ 115.155,78** do Capital Social para financiar o capital de giro (equivalente a 38% do capital inicial).
+
+#### Evolução do Saldo
+
+A partir do Mês 11, com a entrada das parcelas maiores de vendas (principalmente as recebidas a 90 e 150 dias dos primeiros meses de crescimento), o saldo do mês se mantém positivo e crescente.
+
+* **Saldo Acumulado Final (Mês 24):** A empresa encerra o segundo ano com um Saldo Acumulado robusto de **R$ 265.217,37**, provando a viabilidade do modelo de negócio no longo prazo, desde que o crescimento das vendas se mantenha.
+
+### 3. Considerações Finais e Riscos
+
+O principal risco do projeto é a **liquidez de curto prazo** devido à incompatibilidade entre o PMR longo e as saídas operacionais. O Capital Social de R$ 300.000,00 está bem dimensionado, pois consegue cobrir o pico máximo de necessidade de caixa (R$ 115 mil) e manter uma reserva de segurança.
+
