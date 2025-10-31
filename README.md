@@ -71,8 +71,9 @@ com comprometimentos cognitivos e/ou motores diversos.
 - Principais considerações: [Plano de Negócio](docs/plano_de_negocio.md) 
 
 ### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
+- Método utilizado: Fluxo de Caixa Descontado (FCD). Ele estima o valor intrínseco do negócio ao projetar os fluxos de caixa que o projeto irá gerar no futuro e trazê-los a valor presente, descontando o risco e o custo de capital.
+- Valor estimado: Com base nas projeções do fluxo de caixa e nas premissas de alto risco, o valor estimado do projeto "Siga-me" no presente é de R$203.911,09.
+- [Ir para Valuation Detalhado](./docs/valuation_grupoSiga-me.pdf)
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados:  
