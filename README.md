@@ -76,8 +76,31 @@ com comprometimentos cognitivos e/ou motores diversos.
 - [Ir para Valuation Detalhado](./docs/valuation_grupoSiga-me.pdf)
 
 ### 9️⃣ Segurança Cibernética
-- Riscos identificados:  
-- Medidas de segurança:  
+- Riscos identificados e medidas de segurança:  
+
+**Risco 1**: Engenharia reversa ou cópia não autorizada do produto
+Como é um hardware simples, pode ser copiado facilmente sem proteção.
+
+Medidas de segurança:
+1. Documentação registrada e proteção de propriedade intelectual.
+3. Marcação interna de componentes (hardware ID).
+2. Licença de software/firmaware com restrições de uso.
+
+**Risco 2**: Falta de boas práticas de desenvolvimento seguro
+Código sem revisão, sem versionamento ou sem testes pode criar vulnerabilidades.
+
+Medidas de segurança:
+1. Versionamento privado (Git).
+2. Revisão de código.
+3. Testes de segurança antes de cada release.
+
+**Risco 3**: Acesso físico ao equipamento
+Como será usado por crianças e pessoas com limitações, existe risco de retirada de componentes, acesso a cabos e manipulação da placa Arduino
+
+Medidas de segurança:
+1. Caixa lacrada com parafusos de segurança.
+2. Compartimento interno inacessível sem ferramentas específicas.
+3. Proteções contra curto-circuito e manipulação indevida.
 
 ---
 
